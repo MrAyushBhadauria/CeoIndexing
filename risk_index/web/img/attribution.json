@@ -1,0 +1,130 @@
+{
+  "zuckerberg": {
+    "ok": true,
+    "file": "zuckerberg.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22882274@N04\">Anthony Quintano</a> from Westminster, United States",
+    "bytes": 80296
+  },
+  "musk": {
+    "ok": true,
+    "file": "musk.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society_%28crop2%29.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Debbie Rowe",
+    "bytes": 49677
+  },
+  "huang": {
+    "ok": true,
+    "file": "huang.jpg",
+    "source_page": "https://en.wikipedia.org/wiki/Jensen%20Huang",
+    "license": "via Wikipedia page image (check Commons)",
+    "artist": "",
+    "bytes": 90604,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/500px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "bezos": {
+    "ok": true,
+    "file": "bezos.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Jeff_Bezos_2016.jpg",
+    "license": "CC BY 2.0",
+    "artist": "U.S. Department of Defense photo by Senior Master Sgt. Adrian Cadiz",
+    "bytes": 70406
+  },
+  "nadella": {
+    "ok": true,
+    "file": "nadella.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Satya_Nadella.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a href=\"//www.flickr.com/people/86704644@N00\" class=\"extiw\" title=\"flickruser:86704644@N00\">OFFICIAL LEWEB PHOTOS</a>",
+    "bytes": 54913
+  },
+  "pichai": {
+    "ok": true,
+    "file": "pichai.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sundar_Pichai_-_2023_%28cropped%29.jpg",
+    "license": "CC BY 4.0",
+    "artist": "Photographer: Lukasz Kobus (European Commission)",
+    "bytes": 114122
+  },
+  "cook": {
+    "ok": true,
+    "file": "cook.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tim_Cook_2009.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Kindly granted by Valery Marchive (LeMagIT)",
+    "bytes": 37695
+  },
+  "ellison": {
+    "ok": true,
+    "file": "ellison.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Larry_Ellison_on_stage_%284%29.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Oracle PR",
+    "bytes": 27385
+  },
+  "buffett": {
+    "ok": true,
+    "file": "buffett.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Warren_Buffett_KU_Visit.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Mark Hirschey",
+    "bytes": 50875
+  },
+  "abel": {
+    "ok": true,
+    "file": "abel.jpg",
+    "source_page": "https://en.wikipedia.org/wiki/Greg%20Abel",
+    "license": "via Wikipedia page image (check Commons)",
+    "artist": "",
+    "bytes": 42882,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Greg_Abel.jpg/500px-Greg_Abel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "sarandos": {
+    "ok": true,
+    "file": "sarandos.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SXSW_2016_-_Ted_Sarandos_%2825752599662%29.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Daniel Benavides from Austin, TX",
+    "bytes": 90528
+  },
+  "peters": {
+    "ok": false,
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "jassy": {
+    "ok": true,
+    "file": "jassy.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Andy_Jassy.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Lisi Mezistrano Wolf",
+    "bytes": 54984
+  },
+  "farley": {
+    "ok": true,
+    "file": "farley.jpg",
+    "source_page": "https://en.wikipedia.org/wiki/Jim%20Farley%20%28businessman%29",
+    "license": "via Wikipedia page image (check Commons)",
+    "artist": "",
+    "bytes": 26423,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Jim_Farley_portrait_photo%2C_2024.jpg/500px-Jim_Farley_portrait_photo%2C_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "leijun": {
+    "ok": true,
+    "file": "leijun.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Lei_Jun.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "DirectX3",
+    "bytes": 11024
+  },
+  "ternus": {
+    "ok": true,
+    "file": "ternus.jpg",
+    "source_page": "https://en.wikipedia.org/wiki/John%20Ternus",
+    "license": "via Wikipedia page image (check Commons)",
+    "artist": "",
+    "bytes": 64251,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/John_Ternus_May_2026.jpg/500px-John_Ternus_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+}
